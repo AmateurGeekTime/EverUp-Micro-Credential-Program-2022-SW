@@ -1,7 +1,0 @@
-x = 12
-print(x)
-print(x + 2)
-print(x * 2)
-y = x / 6
-print(y) 
-print(x, type(x))
